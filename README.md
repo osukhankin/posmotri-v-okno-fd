@@ -15,4 +15,4 @@
 - JavaScript
 
 ## Ссылка на репозиторий
-[GitHub](https://github.com/username/posmotri-v-okno-fd)
+[GitHub](https://github.com/osukhankin/posmotri-v-okno-fd)
