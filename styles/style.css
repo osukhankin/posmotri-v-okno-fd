@@ -210,6 +210,7 @@ ol {
   display: flex;
   flex-direction: row;
   width: fit-content;
+  cursor: pointer;
 }
 
 .search-form__textfield {
@@ -225,6 +226,7 @@ ol {
   font-family: 'Fira Sans Condensed', sans-serif;
   margin-top: 5px;
   appearance: none;
+  cursor: pointer;
 }
 
 .search-form__textfield:focus {
@@ -312,5 +314,9 @@ ol {
 }
 
 .button:active {
+  background-color: #545050;
+}
+
+.content__card-link_current {
   background-color: #545050;
 }
