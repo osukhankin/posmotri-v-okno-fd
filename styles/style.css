@@ -291,6 +291,7 @@ ol {
   text-align: center;
   background-color: transparent;
   cursor: pointer;
+  font-weight: 700;
 }
 
 .search-form__submit-button {
